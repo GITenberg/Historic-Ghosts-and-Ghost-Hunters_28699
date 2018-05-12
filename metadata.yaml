@@ -1,0 +1,33 @@
+_repo: Historic-Ghosts-and-Ghost-Hunters_28699
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bruce, H. Addington (Henry Addington)
+    alias: Bruce, Henry Addington Bayley
+    birthdate: 1874
+    deathdate: 1959
+    gutenberg_agent_id: '33491'
+    url: http://www.gutenberg.org/2009/agents/33491
+    wikipedia: http://en.wikipedia.org/wiki/Addington_Bruce
+description: ''
+gutenberg_issued: '2009-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28699'
+  lccn: 08024447
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Ghosts'
+tableOfContents: The devils of Loudun -- The drummer of Tedworth -- The haunting of
+  the Wesleys -- The visions of Emanuel Swedenborg -- The Cock Lane ghost -- The ghost
+  seen by Lord Brougham -- The seeress of Prevorst -- The mysterious Mr. Home -- The
+  Watseka wonder -- A medieval ghost hunter -- Ghost hunters of yesterday and to-day.
+title: Historic Ghosts and Ghost Hunters
+url: http://www.gutenberg.org/ebooks/28699
